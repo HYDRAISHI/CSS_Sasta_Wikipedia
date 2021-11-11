@@ -1,0 +1,6 @@
+body{background-color: red;}
+p{font : normal 15pt minecraft ten; word-spacing: 10px; margin: 100 40 100 100; border: groove 10px yellow ;}
+h2{color : blueviolet; text-align : center; font-family:Impact; font-size: xx-large; font-style: normal;}
+h1{font-size: xxx-large; color: black; text-align:center; text-size-adjust: 40px; text-decoration: underline; text-shadow: 2px 3px white;}
+h3{color:cyan; text-align: left; font-size: xx-large;}
+ul{list-style-image: 'bg.png'; list-style-position: inside};
